@@ -22,7 +22,7 @@
   padding: 10px;
 }
 
-#beerimage {
+#beerimage img {
   height: 300px;
   width: 300px;
   position: fixed;
