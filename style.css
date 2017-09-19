@@ -1,14 +1,30 @@
-.banner {
-  height: 150px;
+#banner {
+  margin: 0 auto;
 }
 
 * {
   font-family: "Avenir Next";
   font-weight: lighter;
+  background-color: #F5F4F0;
 }
 
-.lefttext {
-  position:
-    top: 400px;
-    right: 50px;
+#lefttext {
+  position: fixed;
+    top: 500px;
+    left: 150px;
+    padding: 10px;
+}
+
+#righttext {
+  position: fixed;
+  top: 500px;
+  right: 150px;
+  padding: 10px;
+}
+
+#beerimage {
+  height: 300px;
+  width: 300px;
+  position: fixed;
+  top: 500px;
 }
