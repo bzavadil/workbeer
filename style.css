@@ -1,0 +1,14 @@
+.banner {
+  height: 150px;
+}
+
+* {
+  font-family: "Avenir Next";
+  font-weight: lighter;
+}
+
+.lefttext {
+  position:
+    top: 400px;
+    right: 50px;
+}
